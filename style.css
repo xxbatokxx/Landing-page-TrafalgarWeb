@@ -1,0 +1,356 @@
+body{
+	font-family: 'Mulish', sans-serif;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 1em;
+}
+
+.hero-banner .text{
+	font-size: 21px;
+}
+
+.navbar-nav li{
+	
+	margin-right: 10px;
+}
+
+.navbar-brand img{
+	margin-left: 65px;
+}
+
+.element{
+	margin-top: 30px;
+}
+
+.header-title{
+	font-size: 48px;
+	margin-left: 4em;
+}
+
+.text{
+	margin-top: 1em;
+	margin-left: 9em;
+}
+
+
+.ilustration-header{
+	margin-top: -65px;
+}
+
+.btn{
+	display: inline-block;
+	text-align: center;
+	border-radius: 55px;
+	width: 200px;
+	height: 60px;
+	font-size: 18px;
+	margin-left: 10em;
+	margin-top: 25px;
+}
+
+/*main services*/
+
+.title-ourservices{
+	margin-top: 375px;
+	font-size: 36px;
+}
+
+.vector{
+	margin-left: -130px;
+}
+
+.service-center{
+	margin-top: 5em;
+
+}
+
+.col-lg-3{
+	flex: 0 0 auto;
+	width: 25%;
+}
+
+.col-sm-6 {
+    flex: 0 0 auto;
+    margin-left: auto;
+    margin-right: 5em;
+    
+}
+
+
+
+.our-services{
+	border-radius: 20px;
+	width: 350px;
+	
+
+}
+
+.service-center .our-service{
+	background: #fff;
+	border-radius: 20px;
+
+}
+
+.title{
+	font-size: 24px;
+	color: black;
+}
+
+
+
+.text-services{
+	margin-top: 1em;
+	font-size: 18px;
+}
+
+.our-services img{
+	margin-top: 1em;
+}
+
+.icon{
+	height: 59px;
+}
+
+.icon2{
+	height: 79px;
+}
+
+.vector{
+	position: absolute;
+	z-index: -1;
+}
+
+.rounded float-end{
+	position: absolute;
+}
+
+.btn2{
+	display: inline-block;
+	margin-left: 32em;
+	background-color: white;
+	border-radius: 55px;
+	width: 200px;
+	height: 46px;
+	font-size: 18px;
+	margin-top: 25px;
+}
+
+/*css main-content*/
+
+.main-ilustration {
+	margin-top: 225px;
+}
+
+.header-main{
+	font-size: 	36px;
+	margin-top: 326px;
+	margin-left: 156px;
+}
+
+.divider1{
+	height: 1px;
+	background: black;
+	width: 56px;
+	height: 2px;
+	margin-left: 156px;
+	
+}
+
+.col-lg-5 .text{
+	margin-left: 156px;
+}
+
+.col-lg-5 .btn2{
+	display: inline-block;
+	margin-left: 156px;
+	cursor: pointer;
+	background-color: white;
+	border-radius: 55px;
+	width: 200px;
+	height: 56px;
+	font-size: 18px;
+	margin-top: 53px;
+}
+
+.btn-up .btn2{
+	display: inline-block;
+	background-image: url(foto/icon-download.png);
+	background-repeat: no-repeat;
+	background-position: 150px 20px;
+	cursor: pointer;
+	margin-left: 156px;
+	background-color: white;
+	border-radius: 55px;
+	width: 200px;
+	height: 56px;
+	font-size: 18px;
+	margin-top: 53px;
+}
+
+.icon-element{
+	margin-left: 1263px;
+	margin-top: 1em;
+}
+
+/*css testimonial*/
+.testimonial{
+	margin-top: 278px;
+
+}
+
+.testimonial .divider{
+	background: black;
+	width: 56px;
+	height: 2px;
+	border-radius: 6px;
+	margin-left: 500px;
+	background-color: #fff;
+}
+
+.main-testimonial{
+	
+  	background-image: linear-gradient(to bottom right, #67C3F3, #5A98F2);
+	border-radius: 24px;
+	width: 1120px;
+	height: 425px;
+	margin-left: 150px;
+}
+
+.header-testimonial{
+	margin-top: 90px;
+	color: #fff;
+}
+
+.main-element{
+	margin-left: 1000px;
+	margin-top: -200px;
+}
+
+.testi-img{
+	margin-left: 120px;
+	margin-top: 30px;
+}
+
+.name{
+	margin-top: -90px;
+	color: #fff;
+	font-size: 18px;
+}
+
+.text1{
+	font-size: 22px;
+	margin-left: 300px;
+}
+
+.text2{
+	font-size: 18px;
+	margin-left: 300px;
+}
+
+.text3{
+	margin-left: 550px;
+	font-size: 19px;
+	margin-top: -80px;
+
+}
+
+/*article*/
+.title-article{
+	margin-top: 302px;
+}
+
+.title-article .divider2{
+	background: black;
+	width: 56px;
+	height: 2px;
+	border-radius: 6px;
+	margin-left: 700px;
+	background-color: #fff;
+}
+
+.card{
+	margin-top: 77px;
+	width: 350px;
+	border-radius: 20px;
+	border: none;
+
+}
+
+.card-img-top{
+	border-radius: 20px;
+}
+
+.card-title{
+	font-size: 21px;
+}
+
+.card-text{
+	font-size: 16px;
+
+}
+
+.link-article{
+	display: inline-block;
+	text-decoration: none;
+}
+
+.card-body{
+	border-radius: 20px;
+}
+
+.btn3{
+	display: inline-block;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	margin-left: 550px;
+	background-color: white;
+	border-radius: 55px;
+	width: 200px;
+	height: 56px;
+	font-size: 18px;
+	margin-top: 118px;
+}
+
+/*footer*/
+.footer-content{
+	margin-top: 208px;
+	background-image: linear-gradient(to bottom right, #67C3F3, #5A98F2); 
+	height: 432px;
+}
+
+
+.text-footer{
+	margin-top: -20px;
+	font-size: 18px;
+	margin-left: 20px;
+	color: #fff;
+
+}
+
+h3{
+	font-size: 16px;
+	color: #ffff;
+	margin-left: 20px;
+}
+
+.logo-footer{
+	margin-top: 100px;
+	margin-left: -20px;
+}
+
+.title-footer-company{
+	font-size: 20px;
+	color: #fff;
+	margin-top: 143px;
+}
+
+.link-footer a{
+	text-decoration: none;
+	color: #fff;
+	cursor: pointer;
+	
+
+}
